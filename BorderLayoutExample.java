@@ -9,7 +9,7 @@ import java.awt.BorderLayout;
 
 public class BorderLayoutExample {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Ejemplo de BorderLayout");
+        JFrame frame = new JFrame("Ejemplo de BorderLayout");//agregando una linea de comentario para ser reflejado en un repo diferente 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 200);
 
